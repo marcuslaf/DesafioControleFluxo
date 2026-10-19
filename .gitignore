@@ -1,0 +1,14 @@
+# IntelliJ IDEA / IDE
+.idea/
+*.iml
+
+# Build / compilacao
+out/
+*.class
+
+# Seguranca / Security
+.env
+.env.local
+
+# Logs
+*.log
